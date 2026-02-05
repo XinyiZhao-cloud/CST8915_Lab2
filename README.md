@@ -13,9 +13,9 @@
 
 ---
 ## Repo Links
-https://github.com/XinyiZhao-cloud/product-service
-https://github.com/XinyiZhao-cloud/store-front
-https://github.com/XinyiZhao-cloud/order-service
+https://github.com/XinyiZhao-cloud/product-service    
+https://github.com/XinyiZhao-cloud/store-front    
+https://github.com/XinyiZhao-cloud/order-service   
 
 ## Technical Explanations
 

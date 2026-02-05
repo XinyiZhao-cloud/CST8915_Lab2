@@ -12,6 +12,10 @@
 🎥 https://youtu.be/bf9tPZXii20
 
 ---
+## Repo Links
+https://github.com/XinyiZhao-cloud/product-service
+https://github.com/XinyiZhao-cloud/store-front
+https://github.com/XinyiZhao-cloud/order-service
 
 ## Technical Explanations
 
